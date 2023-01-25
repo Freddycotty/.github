@@ -4,7 +4,7 @@
 
 :globe_with_meridians: | Proveedor de servicios de internet.
 
-:comet: | Fibra óptica.
+:comet: | Fibra óptica
 
 :telephone_receiver: | 0212-7714341.
 
